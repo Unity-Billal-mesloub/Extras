@@ -1,5 +1,5 @@
 {
-    "version": "2.0.7",
+    "version": "2.0.9",
     "description": "Tray application for Syncthing",
     "homepage": "https://github.com/Martchus/syncthingtray",
     "license": {
@@ -8,16 +8,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Martchus/syncthingtray/releases/download/v2.0.7/syncthingtray-2.0.7-x86_64-w64-mingw32.exe.zip",
-            "hash": "8899494931289334d7892eee1e8ca106210a36ce6337cf2def23d74d0409bf2e"
+            "url": "https://github.com/Martchus/syncthingtray/releases/download/v2.0.9/syncthingtray-2.0.9-x86_64-w64-mingw32.exe.zip",
+            "hash": "d71665143271d081ebc8974773df5001181be26bcda4fd2909d676dcac3b0050"
         },
         "32bit": {
-            "url": "https://github.com/Martchus/syncthingtray/releases/download/v2.0.7/syncthingtray-qt5-2.0.7-i686-w64-mingw32.exe.zip",
-            "hash": "b0e1b8728f479bf77f7c2bab6b76ef5b363b5e220d47ed6cf1045cf2055b32e3"
+            "url": "https://github.com/Martchus/syncthingtray/releases/download/v2.0.9/syncthingtray-qt5-2.0.9-i686-w64-mingw32.exe.zip",
+            "hash": "9294b94c2f32cc1d75968ac97277bdecaed355d5bd9b7dc1b1b8fc6ac92a5be1"
         },
         "arm64": {
-            "url": "https://github.com/Martchus/syncthingtray/releases/download/v2.0.7/syncthingtray-2.0.7-aarch64-w64-mingw32.exe.zip",
-            "hash": "752e9f7e576af6a544686fd04c3dbb4f6003352bb69167a62ae3eaf4c0bf75d8"
+            "url": "https://github.com/Martchus/syncthingtray/releases/download/v2.0.9/syncthingtray-2.0.9-aarch64-w64-mingw32.exe.zip",
+            "hash": "e1c048c8e8409a676c882d34846172a5f11ae419aaaaca55e35c0873bedbd3e4"
         }
     },
     "pre_install": [

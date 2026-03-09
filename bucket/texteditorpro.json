@@ -1,5 +1,5 @@
 {
-    "version": "35.4.1",
+    "version": "35.6.0",
     "description": "Powerful text editor with syntax highlighting for multiple languages and scripts. Formerly known as EditBone",
     "homepage": "https://texteditor.pro/",
     "license": {
@@ -9,11 +9,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.texteditor.pro/downloads/TextEditorPro64.7z",
-            "hash": "0afc7886f7b7e4e7159d4cc3e724c14c781c00839d2e1159f26a27b50f6abab7"
+            "hash": "b23fe42b93a87c195b5626fd490bf4653fc6c1d25b92e35b1b1618f70f3156f1"
         },
         "32bit": {
             "url": "https://www.texteditor.pro/downloads/TextEditorPro32.7z",
-            "hash": "23fdbb7d809e3cd7910ca30de8b1788e276b48cf14c473983c9a067101979ed4"
+            "hash": "9015218adfe33fabea1847b62ae90403b71b29c442ea07127fe56c76a8bf87b0"
         }
     },
     "bin": [

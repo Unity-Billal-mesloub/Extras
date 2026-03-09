@@ -1,5 +1,5 @@
 {
-    "version": "2.5.0",
+    "version": "2.5.3",
     "description": "(1MB Tiny) Freeware Image & Animation Viewer for Windows",
     "homepage": "https://www.nyam.pe.kr/dev/imagine/",
     "license": {
@@ -9,8 +9,8 @@
     "pre_install": "if (!(Test-Path \"$persist_dir\\Imagine.ini\")) { New-Item \"$dir\\Imagine.ini\" | Out-Null }",
     "architecture": {
         "64bit": {
-            "url": "https://www.nyam.pe.kr/dev/imagine/download.php?arch=x64&unicode=1&full=0&setup=0&version=2.5.0#/dl.7z",
-            "hash": "1e9cb65e767f85fa6102b8041bff7d4c1a3755b0c1c91e658d7fa99be9f09b48",
+            "url": "https://www.nyam.pe.kr/dev/imagine/download.php?arch=x64&unicode=1&full=0&setup=0&version=2.5.3#/dl.7z",
+            "hash": "cfb7a2c70103daba72eccb19d067dd0a47275037b9f9d50ac6982a9d128e69e4",
             "bin": [
                 "Imagine64.exe",
                 [
@@ -26,8 +26,8 @@
             ]
         },
         "32bit": {
-            "url": "https://www.nyam.pe.kr/dev/imagine/download.php?arch=x86&unicode=1&full=0&setup=0&version=2.5.0#/dl.7z",
-            "hash": "77524585100fa894a6816bcccd95495f82f35b971849d86a1a262db8c415f361",
+            "url": "https://www.nyam.pe.kr/dev/imagine/download.php?arch=x86&unicode=1&full=0&setup=0&version=2.5.3#/dl.7z",
+            "hash": "e47bb8a484ded896c455bda90dd1064f8036883fc54b6037db7fb75a67425f21",
             "bin": "Imagine.exe",
             "shortcuts": [
                 [
