@@ -10,4 +10,4 @@ To add this bucket, run `scoop bucket add extras`. To install, do `scoop install
 How do I contribute new manifests?
 ----------------------------------
 
-To make a new manifest contribution, please read the [Contributing Guide](https://github.com/Unity-Billal-mesloub/.github-new/blob/main/.github-new/CONTRIBUTING.md).
+To make a new manifest contribution, please read the [Contributing Guide](https://github.com/Unity-Billal-mesloub/Extras/blob/main/Extras/CONTRIBUTING.md).
